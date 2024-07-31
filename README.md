@@ -9,7 +9,7 @@
 -   [_Express Tool Kit_](https://github.com/evanamedi/ExpressToolKit)
 -   [_React Hardware_](https://github.com/evanamedi/React-Hardware)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanamedi&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanamedi&layout=donut&theme=merko)](https://github.com/evanamedi/github-readme-stats)
 
 <!--
 
